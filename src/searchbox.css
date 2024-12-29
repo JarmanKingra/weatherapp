@@ -1,0 +1,24 @@
+.search-box{
+    text-align: center;
+}
+
+.MainWeatherpage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* This will center the Card */
+    text-align: center;
+    width: 100%;
+  }
+
+  .card {
+    width: 300px;
+  }
+
+.infobox{
+    width: 240px;;
+}
+
+.main-background{
+  background-color: grey;
+}
